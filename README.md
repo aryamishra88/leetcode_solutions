@@ -7,6 +7,7 @@ Leetocde solutions of problems that i solved
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/aryamishra88/leetcode_solutions/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
+| [0622-design-circular-queue](https://github.com/aryamishra88/leetcode_solutions/tree/main/0622-design-circular-queue/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -15,4 +16,16 @@ Leetocde solutions of problems that i solved
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/aryamishra88/leetcode_solutions/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0622-design-circular-queue](https://github.com/aryamishra88/leetcode_solutions/tree/main/0622-design-circular-queue/) | Medium |
+## Design
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0622-design-circular-queue](https://github.com/aryamishra88/leetcode_solutions/tree/main/0622-design-circular-queue/) | Medium |
+## Queue
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0622-design-circular-queue](https://github.com/aryamishra88/leetcode_solutions/tree/main/0622-design-circular-queue/) | Medium |
 <!---LeetCode Topics End-->
