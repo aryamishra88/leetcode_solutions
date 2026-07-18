@@ -39,6 +39,7 @@ Leetocde solutions of problems that i solved
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/aryamishra88/leetcode_solutions/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
+| [2235-add-two-integers](https://github.com/aryamishra88/leetcode_solutions/tree/main/2235-add-two-integers/) | Easy |
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
