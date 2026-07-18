@@ -8,6 +8,7 @@ Leetocde solutions of problems that i solved
 | ------- | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/aryamishra88/leetcode_solutions/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0622-design-circular-queue](https://github.com/aryamishra88/leetcode_solutions/tree/main/0622-design-circular-queue/) | Medium |
+| [1470-shuffle-the-array](https://github.com/aryamishra88/leetcode_solutions/tree/main/1470-shuffle-the-array/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/aryamishra88/leetcode_solutions/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
