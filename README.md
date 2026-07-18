@@ -12,6 +12,7 @@ Leetocde solutions of problems that i solved
 | [1480-running-sum-of-1d-array](https://github.com/aryamishra88/leetcode_solutions/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1929-concatenation-of-array](https://github.com/aryamishra88/leetcode_solutions/tree/main/1929-concatenation-of-array/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/aryamishra88/leetcode_solutions/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/aryamishra88/leetcode_solutions/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -57,8 +58,13 @@ Leetocde solutions of problems that i solved
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1929-concatenation-of-array](https://github.com/aryamishra88/leetcode_solutions/tree/main/1929-concatenation-of-array/) | Easy |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/aryamishra88/leetcode_solutions/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/aryamishra88/leetcode_solutions/tree/main/1480-running-sum-of-1d-array/) | Easy |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/aryamishra88/leetcode_solutions/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
 <!---LeetCode Topics End-->
