@@ -8,6 +8,7 @@ Leetocde solutions of problems that i solved
 | ------- | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/aryamishra88/leetcode_solutions/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0622-design-circular-queue](https://github.com/aryamishra88/leetcode_solutions/tree/main/0622-design-circular-queue/) | Medium |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/aryamishra88/leetcode_solutions/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -34,4 +35,12 @@ Leetocde solutions of problems that i solved
 | [0225-implement-stack-using-queues](https://github.com/aryamishra88/leetcode_solutions/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0232-implement-queue-using-stacks](https://github.com/aryamishra88/leetcode_solutions/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0622-design-circular-queue](https://github.com/aryamishra88/leetcode_solutions/tree/main/0622-design-circular-queue/) | Medium |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/aryamishra88/leetcode_solutions/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
+## Number Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/aryamishra88/leetcode_solutions/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 <!---LeetCode Topics End-->
