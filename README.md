@@ -54,6 +54,7 @@ Leetocde solutions of problems that i solved
 | [2413-smallest-even-multiple](https://github.com/aryamishra88/leetcode_solutions/tree/main/2413-smallest-even-multiple/) | Easy |
 | [2469-convert-the-temperature](https://github.com/aryamishra88/leetcode_solutions/tree/main/2469-convert-the-temperature/) | Easy |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/aryamishra88/leetcode_solutions/tree/main/2520-count-the-digits-that-divide-a-number/) | Easy |
+| [3536-maximum-product-of-two-digits](https://github.com/aryamishra88/leetcode_solutions/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -106,4 +107,5 @@ Leetocde solutions of problems that i solved
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0435-non-overlapping-intervals](https://github.com/aryamishra88/leetcode_solutions/tree/main/0435-non-overlapping-intervals/) | Medium |
+| [3536-maximum-product-of-two-digits](https://github.com/aryamishra88/leetcode_solutions/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 <!---LeetCode Topics End-->
