@@ -20,6 +20,7 @@ Leetocde solutions of problems that i solved
 | [1979-find-greatest-common-divisor-of-array](https://github.com/aryamishra88/leetcode_solutions/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/aryamishra88/leetcode_solutions/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/aryamishra88/leetcode_solutions/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
+| [2574-left-and-right-sum-differences](https://github.com/aryamishra88/leetcode_solutions/tree/main/2574-left-and-right-sum-differences/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -75,6 +76,7 @@ Leetocde solutions of problems that i solved
 | ------- | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/aryamishra88/leetcode_solutions/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [1480-running-sum-of-1d-array](https://github.com/aryamishra88/leetcode_solutions/tree/main/1480-running-sum-of-1d-array/) | Easy |
+| [2574-left-and-right-sum-differences](https://github.com/aryamishra88/leetcode_solutions/tree/main/2574-left-and-right-sum-differences/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
