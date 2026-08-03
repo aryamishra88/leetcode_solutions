@@ -20,6 +20,7 @@ Leetocde solutions of problems that i solved
 | [1672-richest-customer-wealth](https://github.com/aryamishra88/leetcode_solutions/tree/main/1672-richest-customer-wealth/) | Easy |
 | [1929-concatenation-of-array](https://github.com/aryamishra88/leetcode_solutions/tree/main/1929-concatenation-of-array/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/aryamishra88/leetcode_solutions/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
+| [1991-find-the-middle-index-in-array](https://github.com/aryamishra88/leetcode_solutions/tree/main/1991-find-the-middle-index-in-array/) | Easy |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/aryamishra88/leetcode_solutions/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/aryamishra88/leetcode_solutions/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
 | [2574-left-and-right-sum-differences](https://github.com/aryamishra88/leetcode_solutions/tree/main/2574-left-and-right-sum-differences/) | Easy |
@@ -79,6 +80,7 @@ Leetocde solutions of problems that i solved
 | [0560-subarray-sum-equals-k](https://github.com/aryamishra88/leetcode_solutions/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0724-find-pivot-index](https://github.com/aryamishra88/leetcode_solutions/tree/main/0724-find-pivot-index/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/aryamishra88/leetcode_solutions/tree/main/1480-running-sum-of-1d-array/) | Easy |
+| [1991-find-the-middle-index-in-array](https://github.com/aryamishra88/leetcode_solutions/tree/main/1991-find-the-middle-index-in-array/) | Easy |
 | [2574-left-and-right-sum-differences](https://github.com/aryamishra88/leetcode_solutions/tree/main/2574-left-and-right-sum-differences/) | Easy |
 ## String
 | Problem Name | Difficulty |
