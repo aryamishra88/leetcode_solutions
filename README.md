@@ -24,6 +24,7 @@ Leetocde solutions of problems that i solved
 | [1991-find-the-middle-index-in-array](https://github.com/aryamishra88/leetcode_solutions/tree/main/1991-find-the-middle-index-in-array/) | Easy |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/aryamishra88/leetcode_solutions/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/aryamishra88/leetcode_solutions/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
+| [2302-count-subarrays-with-score-less-than-k](https://github.com/aryamishra88/leetcode_solutions/tree/main/2302-count-subarrays-with-score-less-than-k/) | Hard |
 | [2574-left-and-right-sum-differences](https://github.com/aryamishra88/leetcode_solutions/tree/main/2574-left-and-right-sum-differences/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
@@ -83,6 +84,7 @@ Leetocde solutions of problems that i solved
 | [0724-find-pivot-index](https://github.com/aryamishra88/leetcode_solutions/tree/main/0724-find-pivot-index/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/aryamishra88/leetcode_solutions/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1991-find-the-middle-index-in-array](https://github.com/aryamishra88/leetcode_solutions/tree/main/1991-find-the-middle-index-in-array/) | Easy |
+| [2302-count-subarrays-with-score-less-than-k](https://github.com/aryamishra88/leetcode_solutions/tree/main/2302-count-subarrays-with-score-less-than-k/) | Hard |
 | [2574-left-and-right-sum-differences](https://github.com/aryamishra88/leetcode_solutions/tree/main/2574-left-and-right-sum-differences/) | Easy |
 ## String
 | Problem Name | Difficulty |
@@ -146,8 +148,10 @@ Leetocde solutions of problems that i solved
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0713-subarray-product-less-than-k](https://github.com/aryamishra88/leetcode_solutions/tree/main/0713-subarray-product-less-than-k/) | Medium |
+| [2302-count-subarrays-with-score-less-than-k](https://github.com/aryamishra88/leetcode_solutions/tree/main/2302-count-subarrays-with-score-less-than-k/) | Hard |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0713-subarray-product-less-than-k](https://github.com/aryamishra88/leetcode_solutions/tree/main/0713-subarray-product-less-than-k/) | Medium |
+| [2302-count-subarrays-with-score-less-than-k](https://github.com/aryamishra88/leetcode_solutions/tree/main/2302-count-subarrays-with-score-less-than-k/) | Hard |
 <!---LeetCode Topics End-->
