@@ -26,6 +26,7 @@ Leetocde solutions of problems that i solved
 | [1929-concatenation-of-array](https://github.com/aryamishra88/leetcode_solutions/tree/main/1929-concatenation-of-array/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/aryamishra88/leetcode_solutions/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [1991-find-the-middle-index-in-array](https://github.com/aryamishra88/leetcode_solutions/tree/main/1991-find-the-middle-index-in-array/) | Easy |
+| [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/aryamishra88/leetcode_solutions/tree/main/2006-count-number-of-pairs-with-absolute-difference-k/) | Easy |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/aryamishra88/leetcode_solutions/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/aryamishra88/leetcode_solutions/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/aryamishra88/leetcode_solutions/tree/main/2302-count-subarrays-with-score-less-than-k/) | Hard |
@@ -117,11 +118,13 @@ Leetocde solutions of problems that i solved
 | [0389-find-the-difference](https://github.com/aryamishra88/leetcode_solutions/tree/main/0389-find-the-difference/) | Easy |
 | [0532-k-diff-pairs-in-an-array](https://github.com/aryamishra88/leetcode_solutions/tree/main/0532-k-diff-pairs-in-an-array/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/aryamishra88/leetcode_solutions/tree/main/0560-subarray-sum-equals-k/) | Medium |
+| [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/aryamishra88/leetcode_solutions/tree/main/2006-count-number-of-pairs-with-absolute-difference-k/) | Easy |
 | [3731-find-missing-elements](https://github.com/aryamishra88/leetcode_solutions/tree/main/3731-find-missing-elements/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/aryamishra88/leetcode_solutions/tree/main/0387-first-unique-character-in-a-string/) | Easy |
+| [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/aryamishra88/leetcode_solutions/tree/main/2006-count-number-of-pairs-with-absolute-difference-k/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
