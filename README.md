@@ -14,6 +14,7 @@ Leetocde solutions of problems that i solved
 | [0560-subarray-sum-equals-k](https://github.com/aryamishra88/leetcode_solutions/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0622-design-circular-queue](https://github.com/aryamishra88/leetcode_solutions/tree/main/0622-design-circular-queue/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/aryamishra88/leetcode_solutions/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
+| [0646-maximum-length-of-pair-chain](https://github.com/aryamishra88/leetcode_solutions/tree/main/0646-maximum-length-of-pair-chain/) | Medium |
 | [0713-subarray-product-less-than-k](https://github.com/aryamishra88/leetcode_solutions/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [0724-find-pivot-index](https://github.com/aryamishra88/leetcode_solutions/tree/main/0724-find-pivot-index/) | Easy |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/aryamishra88/leetcode_solutions/tree/main/0747-largest-number-at-least-twice-of-others/) | Easy |
@@ -141,11 +142,13 @@ Leetocde solutions of problems that i solved
 | ------- | ------- |
 | [0392-is-subsequence](https://github.com/aryamishra88/leetcode_solutions/tree/main/0392-is-subsequence/) | Easy |
 | [0435-non-overlapping-intervals](https://github.com/aryamishra88/leetcode_solutions/tree/main/0435-non-overlapping-intervals/) | Medium |
+| [0646-maximum-length-of-pair-chain](https://github.com/aryamishra88/leetcode_solutions/tree/main/0646-maximum-length-of-pair-chain/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0435-non-overlapping-intervals](https://github.com/aryamishra88/leetcode_solutions/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0455-assign-cookies](https://github.com/aryamishra88/leetcode_solutions/tree/main/0455-assign-cookies/) | Easy |
+| [0646-maximum-length-of-pair-chain](https://github.com/aryamishra88/leetcode_solutions/tree/main/0646-maximum-length-of-pair-chain/) | Medium |
 | [0881-boats-to-save-people](https://github.com/aryamishra88/leetcode_solutions/tree/main/0881-boats-to-save-people/) | Medium |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/aryamishra88/leetcode_solutions/tree/main/2410-maximum-matching-of-players-with-trainers/) | Medium |
 ## Sorting
@@ -156,6 +159,7 @@ Leetocde solutions of problems that i solved
 | [0455-assign-cookies](https://github.com/aryamishra88/leetcode_solutions/tree/main/0455-assign-cookies/) | Easy |
 | [0532-k-diff-pairs-in-an-array](https://github.com/aryamishra88/leetcode_solutions/tree/main/0532-k-diff-pairs-in-an-array/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/aryamishra88/leetcode_solutions/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
+| [0646-maximum-length-of-pair-chain](https://github.com/aryamishra88/leetcode_solutions/tree/main/0646-maximum-length-of-pair-chain/) | Medium |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/aryamishra88/leetcode_solutions/tree/main/0747-largest-number-at-least-twice-of-others/) | Easy |
 | [0881-boats-to-save-people](https://github.com/aryamishra88/leetcode_solutions/tree/main/0881-boats-to-save-people/) | Medium |
 | [0905-sort-array-by-parity](https://github.com/aryamishra88/leetcode_solutions/tree/main/0905-sort-array-by-parity/) | Easy |
@@ -194,4 +198,8 @@ Leetocde solutions of problems that i solved
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0455-assign-cookies](https://github.com/aryamishra88/leetcode_solutions/tree/main/0455-assign-cookies/) | Easy |
+## Longest Increasing Subsequence
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0646-maximum-length-of-pair-chain](https://github.com/aryamishra88/leetcode_solutions/tree/main/0646-maximum-length-of-pair-chain/) | Medium |
 <!---LeetCode Topics End-->
