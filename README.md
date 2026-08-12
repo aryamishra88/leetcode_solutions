@@ -34,6 +34,7 @@ Leetocde solutions of problems that i solved
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/aryamishra88/leetcode_solutions/tree/main/2302-count-subarrays-with-score-less-than-k/) | Hard |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/aryamishra88/leetcode_solutions/tree/main/2410-maximum-matching-of-players-with-trainers/) | Medium |
 | [2574-left-and-right-sum-differences](https://github.com/aryamishra88/leetcode_solutions/tree/main/2574-left-and-right-sum-differences/) | Easy |
+| [2778-sum-of-squares-of-special-elements](https://github.com/aryamishra88/leetcode_solutions/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [3731-find-missing-elements](https://github.com/aryamishra88/leetcode_solutions/tree/main/3731-find-missing-elements/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
@@ -213,4 +214,8 @@ Leetocde solutions of problems that i solved
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0069-sqrtx](https://github.com/aryamishra88/leetcode_solutions/tree/main/0069-sqrtx/) | Easy |
+## Enumeration
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/aryamishra88/leetcode_solutions/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 <!---LeetCode Topics End-->
