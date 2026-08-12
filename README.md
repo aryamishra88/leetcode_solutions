@@ -69,6 +69,7 @@ Leetocde solutions of problems that i solved
 | [0367-valid-perfect-square](https://github.com/aryamishra88/leetcode_solutions/tree/main/0367-valid-perfect-square/) | Easy |
 | [0504-base-7](https://github.com/aryamishra88/leetcode_solutions/tree/main/0504-base-7/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/aryamishra88/leetcode_solutions/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
+| [0633-sum-of-square-numbers](https://github.com/aryamishra88/leetcode_solutions/tree/main/0633-sum-of-square-numbers/) | Medium |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/aryamishra88/leetcode_solutions/tree/main/1281-subtract-the-product-and-sum-of-digits-of-an-integer/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/aryamishra88/leetcode_solutions/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2119-a-number-after-a-double-reversal](https://github.com/aryamishra88/leetcode_solutions/tree/main/2119-a-number-after-a-double-reversal/) | Easy |
@@ -136,6 +137,7 @@ Leetocde solutions of problems that i solved
 | [0392-is-subsequence](https://github.com/aryamishra88/leetcode_solutions/tree/main/0392-is-subsequence/) | Easy |
 | [0455-assign-cookies](https://github.com/aryamishra88/leetcode_solutions/tree/main/0455-assign-cookies/) | Easy |
 | [0532-k-diff-pairs-in-an-array](https://github.com/aryamishra88/leetcode_solutions/tree/main/0532-k-diff-pairs-in-an-array/) | Medium |
+| [0633-sum-of-square-numbers](https://github.com/aryamishra88/leetcode_solutions/tree/main/0633-sum-of-square-numbers/) | Medium |
 | [0881-boats-to-save-people](https://github.com/aryamishra88/leetcode_solutions/tree/main/0881-boats-to-save-people/) | Medium |
 | [0905-sort-array-by-parity](https://github.com/aryamishra88/leetcode_solutions/tree/main/0905-sort-array-by-parity/) | Easy |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/aryamishra88/leetcode_solutions/tree/main/2410-maximum-matching-of-players-with-trainers/) | Medium |
@@ -184,6 +186,7 @@ Leetocde solutions of problems that i solved
 | [0069-sqrtx](https://github.com/aryamishra88/leetcode_solutions/tree/main/0069-sqrtx/) | Easy |
 | [0367-valid-perfect-square](https://github.com/aryamishra88/leetcode_solutions/tree/main/0367-valid-perfect-square/) | Easy |
 | [0532-k-diff-pairs-in-an-array](https://github.com/aryamishra88/leetcode_solutions/tree/main/0532-k-diff-pairs-in-an-array/) | Medium |
+| [0633-sum-of-square-numbers](https://github.com/aryamishra88/leetcode_solutions/tree/main/0633-sum-of-square-numbers/) | Medium |
 | [0713-subarray-product-less-than-k](https://github.com/aryamishra88/leetcode_solutions/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/aryamishra88/leetcode_solutions/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/aryamishra88/leetcode_solutions/tree/main/2302-count-subarrays-with-score-less-than-k/) | Hard |
