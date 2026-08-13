@@ -14,6 +14,7 @@ Leetocde solutions of problems that i solved
 | [0560-subarray-sum-equals-k](https://github.com/aryamishra88/leetcode_solutions/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0622-design-circular-queue](https://github.com/aryamishra88/leetcode_solutions/tree/main/0622-design-circular-queue/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/aryamishra88/leetcode_solutions/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
+| [0643-maximum-average-subarray-i](https://github.com/aryamishra88/leetcode_solutions/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0646-maximum-length-of-pair-chain](https://github.com/aryamishra88/leetcode_solutions/tree/main/0646-maximum-length-of-pair-chain/) | Medium |
 | [0713-subarray-product-less-than-k](https://github.com/aryamishra88/leetcode_solutions/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [0724-find-pivot-index](https://github.com/aryamishra88/leetcode_solutions/tree/main/0724-find-pivot-index/) | Easy |
@@ -197,6 +198,7 @@ Leetocde solutions of problems that i solved
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/aryamishra88/leetcode_solutions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0643-maximum-average-subarray-i](https://github.com/aryamishra88/leetcode_solutions/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0713-subarray-product-less-than-k](https://github.com/aryamishra88/leetcode_solutions/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/aryamishra88/leetcode_solutions/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/aryamishra88/leetcode_solutions/tree/main/2302-count-subarrays-with-score-less-than-k/) | Hard |
