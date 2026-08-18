@@ -19,6 +19,7 @@ Leetocde solutions of problems that i solved
 | [0646-maximum-length-of-pair-chain](https://github.com/aryamishra88/leetcode_solutions/tree/main/0646-maximum-length-of-pair-chain/) | Medium |
 | [0713-subarray-product-less-than-k](https://github.com/aryamishra88/leetcode_solutions/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [0724-find-pivot-index](https://github.com/aryamishra88/leetcode_solutions/tree/main/0724-find-pivot-index/) | Easy |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/aryamishra88/leetcode_solutions/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/aryamishra88/leetcode_solutions/tree/main/0747-largest-number-at-least-twice-of-others/) | Easy |
 | [0852-peak-index-in-a-mountain-array](https://github.com/aryamishra88/leetcode_solutions/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 | [0881-boats-to-save-people](https://github.com/aryamishra88/leetcode_solutions/tree/main/0881-boats-to-save-people/) | Medium |
@@ -197,6 +198,7 @@ Leetocde solutions of problems that i solved
 | [0532-k-diff-pairs-in-an-array](https://github.com/aryamishra88/leetcode_solutions/tree/main/0532-k-diff-pairs-in-an-array/) | Medium |
 | [0633-sum-of-square-numbers](https://github.com/aryamishra88/leetcode_solutions/tree/main/0633-sum-of-square-numbers/) | Medium |
 | [0713-subarray-product-less-than-k](https://github.com/aryamishra88/leetcode_solutions/tree/main/0713-subarray-product-less-than-k/) | Medium |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/aryamishra88/leetcode_solutions/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
 | [0852-peak-index-in-a-mountain-array](https://github.com/aryamishra88/leetcode_solutions/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/aryamishra88/leetcode_solutions/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/aryamishra88/leetcode_solutions/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
