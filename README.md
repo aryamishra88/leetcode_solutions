@@ -30,6 +30,7 @@ Leetocde solutions of problems that i solved
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/aryamishra88/leetcode_solutions/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1470-shuffle-the-array](https://github.com/aryamishra88/leetcode_solutions/tree/main/1470-shuffle-the-array/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/aryamishra88/leetcode_solutions/tree/main/1480-running-sum-of-1d-array/) | Easy |
+| [1552-magnetic-force-between-two-balls](https://github.com/aryamishra88/leetcode_solutions/tree/main/1552-magnetic-force-between-two-balls/) | Medium |
 | [1672-richest-customer-wealth](https://github.com/aryamishra88/leetcode_solutions/tree/main/1672-richest-customer-wealth/) | Easy |
 | [1929-concatenation-of-array](https://github.com/aryamishra88/leetcode_solutions/tree/main/1929-concatenation-of-array/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/aryamishra88/leetcode_solutions/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
@@ -177,6 +178,7 @@ Leetocde solutions of problems that i solved
 | [0881-boats-to-save-people](https://github.com/aryamishra88/leetcode_solutions/tree/main/0881-boats-to-save-people/) | Medium |
 | [0905-sort-array-by-parity](https://github.com/aryamishra88/leetcode_solutions/tree/main/0905-sort-array-by-parity/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/aryamishra88/leetcode_solutions/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
+| [1552-magnetic-force-between-two-balls](https://github.com/aryamishra88/leetcode_solutions/tree/main/1552-magnetic-force-between-two-balls/) | Medium |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/aryamishra88/leetcode_solutions/tree/main/2410-maximum-matching-of-players-with-trainers/) | Medium |
 | [3536-maximum-product-of-two-digits](https://github.com/aryamishra88/leetcode_solutions/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 | [3731-find-missing-elements](https://github.com/aryamishra88/leetcode_solutions/tree/main/3731-find-missing-elements/) | Easy |
@@ -202,6 +204,7 @@ Leetocde solutions of problems that i solved
 | [0852-peak-index-in-a-mountain-array](https://github.com/aryamishra88/leetcode_solutions/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/aryamishra88/leetcode_solutions/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/aryamishra88/leetcode_solutions/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
+| [1552-magnetic-force-between-two-balls](https://github.com/aryamishra88/leetcode_solutions/tree/main/1552-magnetic-force-between-two-balls/) | Medium |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/aryamishra88/leetcode_solutions/tree/main/2302-count-subarrays-with-score-less-than-k/) | Hard |
 ## Sliding Window
 | Problem Name | Difficulty |
