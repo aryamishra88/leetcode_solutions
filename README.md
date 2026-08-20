@@ -9,6 +9,7 @@ Leetocde solutions of problems that i solved
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/aryamishra88/leetcode_solutions/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0084-largest-rectangle-in-histogram](https://github.com/aryamishra88/leetcode_solutions/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0209-minimum-size-subarray-sum](https://github.com/aryamishra88/leetcode_solutions/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+| [0268-missing-number](https://github.com/aryamishra88/leetcode_solutions/tree/main/0268-missing-number/) | Easy |
 | [0435-non-overlapping-intervals](https://github.com/aryamishra88/leetcode_solutions/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0455-assign-cookies](https://github.com/aryamishra88/leetcode_solutions/tree/main/0455-assign-cookies/) | Easy |
 | [0532-k-diff-pairs-in-an-array](https://github.com/aryamishra88/leetcode_solutions/tree/main/0532-k-diff-pairs-in-an-array/) | Medium |
@@ -74,6 +75,7 @@ Leetocde solutions of problems that i solved
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0069-sqrtx](https://github.com/aryamishra88/leetcode_solutions/tree/main/0069-sqrtx/) | Easy |
+| [0268-missing-number](https://github.com/aryamishra88/leetcode_solutions/tree/main/0268-missing-number/) | Easy |
 | [0367-valid-perfect-square](https://github.com/aryamishra88/leetcode_solutions/tree/main/0367-valid-perfect-square/) | Easy |
 | [0504-base-7](https://github.com/aryamishra88/leetcode_solutions/tree/main/0504-base-7/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/aryamishra88/leetcode_solutions/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
@@ -129,6 +131,7 @@ Leetocde solutions of problems that i solved
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/aryamishra88/leetcode_solutions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0268-missing-number](https://github.com/aryamishra88/leetcode_solutions/tree/main/0268-missing-number/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/aryamishra88/leetcode_solutions/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0389-find-the-difference](https://github.com/aryamishra88/leetcode_solutions/tree/main/0389-find-the-difference/) | Easy |
 | [0532-k-diff-pairs-in-an-array](https://github.com/aryamishra88/leetcode_solutions/tree/main/0532-k-diff-pairs-in-an-array/) | Medium |
@@ -168,6 +171,7 @@ Leetocde solutions of problems that i solved
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0268-missing-number](https://github.com/aryamishra88/leetcode_solutions/tree/main/0268-missing-number/) | Easy |
 | [0389-find-the-difference](https://github.com/aryamishra88/leetcode_solutions/tree/main/0389-find-the-difference/) | Easy |
 | [0435-non-overlapping-intervals](https://github.com/aryamishra88/leetcode_solutions/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0455-assign-cookies](https://github.com/aryamishra88/leetcode_solutions/tree/main/0455-assign-cookies/) | Easy |
@@ -185,6 +189,7 @@ Leetocde solutions of problems that i solved
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0268-missing-number](https://github.com/aryamishra88/leetcode_solutions/tree/main/0268-missing-number/) | Easy |
 | [0389-find-the-difference](https://github.com/aryamishra88/leetcode_solutions/tree/main/0389-find-the-difference/) | Easy |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
@@ -196,6 +201,7 @@ Leetocde solutions of problems that i solved
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/aryamishra88/leetcode_solutions/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0069-sqrtx](https://github.com/aryamishra88/leetcode_solutions/tree/main/0069-sqrtx/) | Easy |
 | [0209-minimum-size-subarray-sum](https://github.com/aryamishra88/leetcode_solutions/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+| [0268-missing-number](https://github.com/aryamishra88/leetcode_solutions/tree/main/0268-missing-number/) | Easy |
 | [0367-valid-perfect-square](https://github.com/aryamishra88/leetcode_solutions/tree/main/0367-valid-perfect-square/) | Easy |
 | [0532-k-diff-pairs-in-an-array](https://github.com/aryamishra88/leetcode_solutions/tree/main/0532-k-diff-pairs-in-an-array/) | Medium |
 | [0633-sum-of-square-numbers](https://github.com/aryamishra88/leetcode_solutions/tree/main/0633-sum-of-square-numbers/) | Medium |
