@@ -23,6 +23,7 @@ Leetocde solutions of problems that i solved
 | [0744-find-smallest-letter-greater-than-target](https://github.com/aryamishra88/leetcode_solutions/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/aryamishra88/leetcode_solutions/tree/main/0747-largest-number-at-least-twice-of-others/) | Easy |
 | [0852-peak-index-in-a-mountain-array](https://github.com/aryamishra88/leetcode_solutions/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
+| [0875-koko-eating-bananas](https://github.com/aryamishra88/leetcode_solutions/tree/main/0875-koko-eating-bananas/) | Medium |
 | [0881-boats-to-save-people](https://github.com/aryamishra88/leetcode_solutions/tree/main/0881-boats-to-save-people/) | Medium |
 | [0905-sort-array-by-parity](https://github.com/aryamishra88/leetcode_solutions/tree/main/0905-sort-array-by-parity/) | Easy |
 | [1004-max-consecutive-ones-iii](https://github.com/aryamishra88/leetcode_solutions/tree/main/1004-max-consecutive-ones-iii/) | Medium |
@@ -208,6 +209,7 @@ Leetocde solutions of problems that i solved
 | [0713-subarray-product-less-than-k](https://github.com/aryamishra88/leetcode_solutions/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/aryamishra88/leetcode_solutions/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
 | [0852-peak-index-in-a-mountain-array](https://github.com/aryamishra88/leetcode_solutions/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
+| [0875-koko-eating-bananas](https://github.com/aryamishra88/leetcode_solutions/tree/main/0875-koko-eating-bananas/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/aryamishra88/leetcode_solutions/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/aryamishra88/leetcode_solutions/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1552-magnetic-force-between-two-balls](https://github.com/aryamishra88/leetcode_solutions/tree/main/1552-magnetic-force-between-two-balls/) | Medium |
