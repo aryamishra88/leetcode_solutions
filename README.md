@@ -205,6 +205,7 @@ Leetocde solutions of problems that i solved
 | [0209-minimum-size-subarray-sum](https://github.com/aryamishra88/leetcode_solutions/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0268-missing-number](https://github.com/aryamishra88/leetcode_solutions/tree/main/0268-missing-number/) | Easy |
 | [0367-valid-perfect-square](https://github.com/aryamishra88/leetcode_solutions/tree/main/0367-valid-perfect-square/) | Easy |
+| [0374-guess-number-higher-or-lower](https://github.com/aryamishra88/leetcode_solutions/tree/main/0374-guess-number-higher-or-lower/) | Easy |
 | [0441-arranging-coins](https://github.com/aryamishra88/leetcode_solutions/tree/main/0441-arranging-coins/) | Easy |
 | [0532-k-diff-pairs-in-an-array](https://github.com/aryamishra88/leetcode_solutions/tree/main/0532-k-diff-pairs-in-an-array/) | Medium |
 | [0633-sum-of-square-numbers](https://github.com/aryamishra88/leetcode_solutions/tree/main/0633-sum-of-square-numbers/) | Medium |
@@ -251,4 +252,8 @@ Leetocde solutions of problems that i solved
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0852-peak-index-in-a-mountain-array](https://github.com/aryamishra88/leetcode_solutions/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
+## Interactive
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/aryamishra88/leetcode_solutions/tree/main/0374-guess-number-higher-or-lower/) | Easy |
 <!---LeetCode Topics End-->
