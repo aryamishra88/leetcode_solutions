@@ -16,12 +16,12 @@ class Solution {
     public int smallestDivisor(int[] nums, int threshold) {
         long  start=1;
         long end=0;
-        long sum=0;
+        int max=Integer.MIN_VALUE;
         for(int i=0;i<nums.length;i++){
-            sum+=nums[i];
+            max=Math.max(max,nums[i]);
 
         }
-        end=sum;
+        end=max;
         long ans=-1;
         while(start<=end){
             long mid=start+(end-start)/2;
