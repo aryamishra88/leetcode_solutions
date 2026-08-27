@@ -199,6 +199,7 @@ Leetocde solutions of problems that i solved
 | ------- | ------- |
 | [0268-missing-number](https://github.com/aryamishra88/leetcode_solutions/tree/main/0268-missing-number/) | Easy |
 | [0389-find-the-difference](https://github.com/aryamishra88/leetcode_solutions/tree/main/0389-find-the-difference/) | Easy |
+| [0476-number-complement](https://github.com/aryamishra88/leetcode_solutions/tree/main/0476-number-complement/) | Easy |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
