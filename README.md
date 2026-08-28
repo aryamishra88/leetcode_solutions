@@ -81,6 +81,7 @@ Leetocde solutions of problems that i solved
 | [0069-sqrtx](https://github.com/aryamishra88/leetcode_solutions/tree/main/0069-sqrtx/) | Easy |
 | [0268-missing-number](https://github.com/aryamishra88/leetcode_solutions/tree/main/0268-missing-number/) | Easy |
 | [0367-valid-perfect-square](https://github.com/aryamishra88/leetcode_solutions/tree/main/0367-valid-perfect-square/) | Easy |
+| [0412-fizz-buzz](https://github.com/aryamishra88/leetcode_solutions/tree/main/0412-fizz-buzz/) | Easy |
 | [0441-arranging-coins](https://github.com/aryamishra88/leetcode_solutions/tree/main/0441-arranging-coins/) | Easy |
 | [0504-base-7](https://github.com/aryamishra88/leetcode_solutions/tree/main/0504-base-7/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/aryamishra88/leetcode_solutions/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
@@ -101,6 +102,7 @@ Leetocde solutions of problems that i solved
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0412-fizz-buzz](https://github.com/aryamishra88/leetcode_solutions/tree/main/0412-fizz-buzz/) | Easy |
 | [1929-concatenation-of-array](https://github.com/aryamishra88/leetcode_solutions/tree/main/1929-concatenation-of-array/) | Easy |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/aryamishra88/leetcode_solutions/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
 ## Prefix Sum
@@ -125,6 +127,7 @@ Leetocde solutions of problems that i solved
 | [0387-first-unique-character-in-a-string](https://github.com/aryamishra88/leetcode_solutions/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0389-find-the-difference](https://github.com/aryamishra88/leetcode_solutions/tree/main/0389-find-the-difference/) | Easy |
 | [0392-is-subsequence](https://github.com/aryamishra88/leetcode_solutions/tree/main/0392-is-subsequence/) | Easy |
+| [0412-fizz-buzz](https://github.com/aryamishra88/leetcode_solutions/tree/main/0412-fizz-buzz/) | Easy |
 | [0504-base-7](https://github.com/aryamishra88/leetcode_solutions/tree/main/0504-base-7/) | Easy |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/aryamishra88/leetcode_solutions/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/aryamishra88/leetcode_solutions/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
