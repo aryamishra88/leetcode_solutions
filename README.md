@@ -81,6 +81,7 @@ Leetocde solutions of problems that i solved
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0069-sqrtx](https://github.com/aryamishra88/leetcode_solutions/tree/main/0069-sqrtx/) | Easy |
+| [0231-power-of-two](https://github.com/aryamishra88/leetcode_solutions/tree/main/0231-power-of-two/) | Easy |
 | [0268-missing-number](https://github.com/aryamishra88/leetcode_solutions/tree/main/0268-missing-number/) | Easy |
 | [0367-valid-perfect-square](https://github.com/aryamishra88/leetcode_solutions/tree/main/0367-valid-perfect-square/) | Easy |
 | [0412-fizz-buzz](https://github.com/aryamishra88/leetcode_solutions/tree/main/0412-fizz-buzz/) | Easy |
@@ -202,6 +203,7 @@ Leetocde solutions of problems that i solved
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0231-power-of-two](https://github.com/aryamishra88/leetcode_solutions/tree/main/0231-power-of-two/) | Easy |
 | [0268-missing-number](https://github.com/aryamishra88/leetcode_solutions/tree/main/0268-missing-number/) | Easy |
 | [0389-find-the-difference](https://github.com/aryamishra88/leetcode_solutions/tree/main/0389-find-the-difference/) | Easy |
 | [0476-number-complement](https://github.com/aryamishra88/leetcode_solutions/tree/main/0476-number-complement/) | Easy |
@@ -286,4 +288,8 @@ Leetocde solutions of problems that i solved
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/aryamishra88/leetcode_solutions/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/aryamishra88/leetcode_solutions/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0231-power-of-two](https://github.com/aryamishra88/leetcode_solutions/tree/main/0231-power-of-two/) | Easy |
 <!---LeetCode Topics End-->
