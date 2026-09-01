@@ -80,6 +80,7 @@ Leetocde solutions of problems that i solved
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0007-reverse-integer](https://github.com/aryamishra88/leetcode_solutions/tree/main/0007-reverse-integer/) | Medium |
 | [0069-sqrtx](https://github.com/aryamishra88/leetcode_solutions/tree/main/0069-sqrtx/) | Easy |
 | [0231-power-of-two](https://github.com/aryamishra88/leetcode_solutions/tree/main/0231-power-of-two/) | Easy |
 | [0268-missing-number](https://github.com/aryamishra88/leetcode_solutions/tree/main/0268-missing-number/) | Easy |
