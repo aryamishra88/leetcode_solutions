@@ -97,6 +97,7 @@ Leetocde solutions of problems that i solved
 | [2413-smallest-even-multiple](https://github.com/aryamishra88/leetcode_solutions/tree/main/2413-smallest-even-multiple/) | Easy |
 | [2469-convert-the-temperature](https://github.com/aryamishra88/leetcode_solutions/tree/main/2469-convert-the-temperature/) | Easy |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/aryamishra88/leetcode_solutions/tree/main/2520-count-the-digits-that-divide-a-number/) | Easy |
+| [2652-sum-multiples](https://github.com/aryamishra88/leetcode_solutions/tree/main/2652-sum-multiples/) | Easy |
 | [3536-maximum-product-of-two-digits](https://github.com/aryamishra88/leetcode_solutions/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 ## Number Theory
 | Problem Name | Difficulty |
