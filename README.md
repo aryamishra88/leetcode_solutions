@@ -30,6 +30,7 @@ Leetocde solutions of problems that i solved
 | [1004-max-consecutive-ones-iii](https://github.com/aryamishra88/leetcode_solutions/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/aryamishra88/leetcode_solutions/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/aryamishra88/leetcode_solutions/tree/main/1283-find-the-smallest-divisor-given-a-threshold/) | Medium |
+| [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/aryamishra88/leetcode_solutions/tree/main/1304-find-n-unique-integers-sum-up-to-zero/) | Easy |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/aryamishra88/leetcode_solutions/tree/main/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/) | Medium |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/aryamishra88/leetcode_solutions/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1470-shuffle-the-array](https://github.com/aryamishra88/leetcode_solutions/tree/main/1470-shuffle-the-array/) | Easy |
@@ -91,6 +92,7 @@ Leetocde solutions of problems that i solved
 | [0628-maximum-product-of-three-numbers](https://github.com/aryamishra88/leetcode_solutions/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0633-sum-of-square-numbers](https://github.com/aryamishra88/leetcode_solutions/tree/main/0633-sum-of-square-numbers/) | Medium |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/aryamishra88/leetcode_solutions/tree/main/1281-subtract-the-product-and-sum-of-digits-of-an-integer/) | Easy |
+| [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/aryamishra88/leetcode_solutions/tree/main/1304-find-n-unique-integers-sum-up-to-zero/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/aryamishra88/leetcode_solutions/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2119-a-number-after-a-double-reversal](https://github.com/aryamishra88/leetcode_solutions/tree/main/2119-a-number-after-a-double-reversal/) | Easy |
 | [2235-add-two-integers](https://github.com/aryamishra88/leetcode_solutions/tree/main/2235-add-two-integers/) | Easy |
