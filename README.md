@@ -10,6 +10,7 @@ Leetocde solutions of problems that i solved
 | [0084-largest-rectangle-in-histogram](https://github.com/aryamishra88/leetcode_solutions/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0209-minimum-size-subarray-sum](https://github.com/aryamishra88/leetcode_solutions/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0268-missing-number](https://github.com/aryamishra88/leetcode_solutions/tree/main/0268-missing-number/) | Easy |
+| [0349-intersection-of-two-arrays](https://github.com/aryamishra88/leetcode_solutions/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0410-split-array-largest-sum](https://github.com/aryamishra88/leetcode_solutions/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0435-non-overlapping-intervals](https://github.com/aryamishra88/leetcode_solutions/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0455-assign-cookies](https://github.com/aryamishra88/leetcode_solutions/tree/main/0455-assign-cookies/) | Easy |
@@ -148,6 +149,7 @@ Leetocde solutions of problems that i solved
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/aryamishra88/leetcode_solutions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0268-missing-number](https://github.com/aryamishra88/leetcode_solutions/tree/main/0268-missing-number/) | Easy |
+| [0349-intersection-of-two-arrays](https://github.com/aryamishra88/leetcode_solutions/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/aryamishra88/leetcode_solutions/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0389-find-the-difference](https://github.com/aryamishra88/leetcode_solutions/tree/main/0389-find-the-difference/) | Easy |
 | [0532-k-diff-pairs-in-an-array](https://github.com/aryamishra88/leetcode_solutions/tree/main/0532-k-diff-pairs-in-an-array/) | Medium |
@@ -163,6 +165,7 @@ Leetocde solutions of problems that i solved
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0345-reverse-vowels-of-a-string](https://github.com/aryamishra88/leetcode_solutions/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
+| [0349-intersection-of-two-arrays](https://github.com/aryamishra88/leetcode_solutions/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0392-is-subsequence](https://github.com/aryamishra88/leetcode_solutions/tree/main/0392-is-subsequence/) | Easy |
 | [0455-assign-cookies](https://github.com/aryamishra88/leetcode_solutions/tree/main/0455-assign-cookies/) | Easy |
 | [0532-k-diff-pairs-in-an-array](https://github.com/aryamishra88/leetcode_solutions/tree/main/0532-k-diff-pairs-in-an-array/) | Medium |
@@ -190,6 +193,7 @@ Leetocde solutions of problems that i solved
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0268-missing-number](https://github.com/aryamishra88/leetcode_solutions/tree/main/0268-missing-number/) | Easy |
+| [0349-intersection-of-two-arrays](https://github.com/aryamishra88/leetcode_solutions/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0389-find-the-difference](https://github.com/aryamishra88/leetcode_solutions/tree/main/0389-find-the-difference/) | Easy |
 | [0435-non-overlapping-intervals](https://github.com/aryamishra88/leetcode_solutions/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0455-assign-cookies](https://github.com/aryamishra88/leetcode_solutions/tree/main/0455-assign-cookies/) | Easy |
@@ -222,6 +226,7 @@ Leetocde solutions of problems that i solved
 | [0069-sqrtx](https://github.com/aryamishra88/leetcode_solutions/tree/main/0069-sqrtx/) | Easy |
 | [0209-minimum-size-subarray-sum](https://github.com/aryamishra88/leetcode_solutions/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0268-missing-number](https://github.com/aryamishra88/leetcode_solutions/tree/main/0268-missing-number/) | Easy |
+| [0349-intersection-of-two-arrays](https://github.com/aryamishra88/leetcode_solutions/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0367-valid-perfect-square](https://github.com/aryamishra88/leetcode_solutions/tree/main/0367-valid-perfect-square/) | Easy |
 | [0374-guess-number-higher-or-lower](https://github.com/aryamishra88/leetcode_solutions/tree/main/0374-guess-number-higher-or-lower/) | Easy |
 | [0410-split-array-largest-sum](https://github.com/aryamishra88/leetcode_solutions/tree/main/0410-split-array-largest-sum/) | Hard |
