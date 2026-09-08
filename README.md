@@ -103,6 +103,7 @@ Leetocde solutions of problems that i solved
 | [2520-count-the-digits-that-divide-a-number](https://github.com/aryamishra88/leetcode_solutions/tree/main/2520-count-the-digits-that-divide-a-number/) | Easy |
 | [2652-sum-multiples](https://github.com/aryamishra88/leetcode_solutions/tree/main/2652-sum-multiples/) | Easy |
 | [3536-maximum-product-of-two-digits](https://github.com/aryamishra88/leetcode_solutions/tree/main/3536-maximum-product-of-two-digits/) | Easy |
+| [3870-count-commas-in-range](https://github.com/aryamishra88/leetcode_solutions/tree/main/3870-count-commas-in-range/) | Easy |
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
