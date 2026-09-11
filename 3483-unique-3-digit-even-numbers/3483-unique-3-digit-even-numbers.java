@@ -1,46 +1,37 @@
 class Solution {
     public int totalNumbers(int[] digits) {
+        int[] freq = new int[10];
 
-        boolean[] seen = new boolean[1000];
+        for (int digit : digits) {
+            freq[digit]++;
+        }
+
         int count = 0;
 
-        for (int i = 0; i < digits.length; i++) {
-
-            // First digit cannot be 0
-            if (digits[i] == 0) {
+        for (int i = 1; i <= 9; i++) {
+            if (freq[i] == 0) {
                 continue;
             }
 
-            for (int j = 0; j < digits.length; j++) {
+            freq[i]--;
 
-                // Same copy cannot be reused
-                if (j == i) {
+            for (int j = 0; j <= 9; j++) {
+                if (freq[j] == 0) {
                     continue;
                 }
 
-                for (int k = 0; k < digits.length; k++) {
+                freq[j]--;
 
-                    // Same copy cannot be reused
-                    if (k == i || k == j) {
-                        continue;
-                    }
-
-                    // Last digit must be even
-                    if (digits[k] % 2 != 0) {
-                        continue;
-                    }
-
-                    int num = digits[i] * 100
-                            + digits[j] * 10
-                            + digits[k];
-
-                    // Count only distinct numbers
-                    if (!seen[num]) {
-                        seen[num] = true;
+                for (int k = 0; k <= 8; k += 2) {
+                    if (freq[k] > 0) {
                         count++;
                     }
                 }
+
+                freq[j]++;
             }
+
+            freq[i]++;
         }
 
         return count;
