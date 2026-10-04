@@ -19,29 +19,16 @@ class Solution {
             return 0;
         }
         if(root.left==null){
-            if(root==null){
-            return 0;
-        }
-        int lh=minDepth(root.left);
         int rh=minDepth(root.right);
-        int height=Math.max(lh,rh)+1;
-        return height;
+        
+        return rh+1;
             
         }
         if(root.right==null){
-            if(root==null){
-            return 0;
-        }
         int lh=minDepth(root.left);
-        int rh=minDepth(root.right);
-        int height=Math.max(lh,rh)+1;
-        return height;
+        return lh+1;
             
         }else{
-      
-        if(root==null){
-            return 0;
-        }
         int lh=minDepth(root.left);
         int rh=minDepth(root.right);
         int height=Math.min(lh,rh)+1;
