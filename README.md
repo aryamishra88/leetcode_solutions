@@ -70,6 +70,7 @@ Leetocde solutions of problems that i solved
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0622-design-circular-queue](https://github.com/aryamishra88/leetcode_solutions/tree/main/0622-design-circular-queue/) | Medium |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/aryamishra88/leetcode_solutions/tree/main/1290-convert-binary-number-in-a-linked-list-to-integer/) | Easy |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -97,6 +98,7 @@ Leetocde solutions of problems that i solved
 | [0628-maximum-product-of-three-numbers](https://github.com/aryamishra88/leetcode_solutions/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0633-sum-of-square-numbers](https://github.com/aryamishra88/leetcode_solutions/tree/main/0633-sum-of-square-numbers/) | Medium |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/aryamishra88/leetcode_solutions/tree/main/1281-subtract-the-product-and-sum-of-digits-of-an-integer/) | Easy |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/aryamishra88/leetcode_solutions/tree/main/1290-convert-binary-number-in-a-linked-list-to-integer/) | Easy |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/aryamishra88/leetcode_solutions/tree/main/1304-find-n-unique-integers-sum-up-to-zero/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/aryamishra88/leetcode_solutions/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2119-a-number-after-a-double-reversal](https://github.com/aryamishra88/leetcode_solutions/tree/main/2119-a-number-after-a-double-reversal/) | Easy |
