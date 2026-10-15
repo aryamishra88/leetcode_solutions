@@ -95,6 +95,7 @@ Leetocde solutions of problems that i solved
 | [0412-fizz-buzz](https://github.com/aryamishra88/leetcode_solutions/tree/main/0412-fizz-buzz/) | Easy |
 | [0441-arranging-coins](https://github.com/aryamishra88/leetcode_solutions/tree/main/0441-arranging-coins/) | Easy |
 | [0504-base-7](https://github.com/aryamishra88/leetcode_solutions/tree/main/0504-base-7/) | Easy |
+| [0509-fibonacci-number](https://github.com/aryamishra88/leetcode_solutions/tree/main/0509-fibonacci-number/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/aryamishra88/leetcode_solutions/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0633-sum-of-square-numbers](https://github.com/aryamishra88/leetcode_solutions/tree/main/0633-sum-of-square-numbers/) | Medium |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/aryamishra88/leetcode_solutions/tree/main/1281-subtract-the-product-and-sum-of-digits-of-an-integer/) | Easy |
@@ -189,6 +190,7 @@ Leetocde solutions of problems that i solved
 | [0392-is-subsequence](https://github.com/aryamishra88/leetcode_solutions/tree/main/0392-is-subsequence/) | Easy |
 | [0410-split-array-largest-sum](https://github.com/aryamishra88/leetcode_solutions/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0435-non-overlapping-intervals](https://github.com/aryamishra88/leetcode_solutions/tree/main/0435-non-overlapping-intervals/) | Medium |
+| [0509-fibonacci-number](https://github.com/aryamishra88/leetcode_solutions/tree/main/0509-fibonacci-number/) | Easy |
 | [0646-maximum-length-of-pair-chain](https://github.com/aryamishra88/leetcode_solutions/tree/main/0646-maximum-length-of-pair-chain/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
@@ -340,6 +342,7 @@ Leetocde solutions of problems that i solved
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0231-power-of-two](https://github.com/aryamishra88/leetcode_solutions/tree/main/0231-power-of-two/) | Easy |
+| [0509-fibonacci-number](https://github.com/aryamishra88/leetcode_solutions/tree/main/0509-fibonacci-number/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/aryamishra88/leetcode_solutions/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 ## Breadth-First Search
 | Problem Name | Difficulty |
@@ -372,4 +375,8 @@ Leetocde solutions of problems that i solved
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/aryamishra88/leetcode_solutions/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
+## Memoization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0509-fibonacci-number](https://github.com/aryamishra88/leetcode_solutions/tree/main/0509-fibonacci-number/) | Easy |
 <!---LeetCode Topics End-->
