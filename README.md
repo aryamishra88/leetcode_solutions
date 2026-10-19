@@ -47,6 +47,7 @@ Leetocde solutions of problems that i solved
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/aryamishra88/leetcode_solutions/tree/main/2006-count-number-of-pairs-with-absolute-difference-k/) | Easy |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/aryamishra88/leetcode_solutions/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
 | [2073-time-needed-to-buy-tickets](https://github.com/aryamishra88/leetcode_solutions/tree/main/2073-time-needed-to-buy-tickets/) | Easy |
+| [2089-find-target-indices-after-sorting-array](https://github.com/aryamishra88/leetcode_solutions/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/aryamishra88/leetcode_solutions/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/aryamishra88/leetcode_solutions/tree/main/2302-count-subarrays-with-score-less-than-k/) | Hard |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/aryamishra88/leetcode_solutions/tree/main/2410-maximum-matching-of-players-with-trainers/) | Medium |
@@ -222,6 +223,7 @@ Leetocde solutions of problems that i solved
 | [0977-squares-of-a-sorted-array](https://github.com/aryamishra88/leetcode_solutions/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/aryamishra88/leetcode_solutions/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1552-magnetic-force-between-two-balls](https://github.com/aryamishra88/leetcode_solutions/tree/main/1552-magnetic-force-between-two-balls/) | Medium |
+| [2089-find-target-indices-after-sorting-array](https://github.com/aryamishra88/leetcode_solutions/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/aryamishra88/leetcode_solutions/tree/main/2410-maximum-matching-of-players-with-trainers/) | Medium |
 | [3536-maximum-product-of-two-digits](https://github.com/aryamishra88/leetcode_solutions/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 | [3731-find-missing-elements](https://github.com/aryamishra88/leetcode_solutions/tree/main/3731-find-missing-elements/) | Easy |
@@ -260,6 +262,7 @@ Leetocde solutions of problems that i solved
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/aryamishra88/leetcode_solutions/tree/main/1283-find-the-smallest-divisor-given-a-threshold/) | Medium |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/aryamishra88/leetcode_solutions/tree/main/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
 | [1552-magnetic-force-between-two-balls](https://github.com/aryamishra88/leetcode_solutions/tree/main/1552-magnetic-force-between-two-balls/) | Medium |
+| [2089-find-target-indices-after-sorting-array](https://github.com/aryamishra88/leetcode_solutions/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/aryamishra88/leetcode_solutions/tree/main/2302-count-subarrays-with-score-less-than-k/) | Hard |
 ## Sliding Window
 | Problem Name | Difficulty |
