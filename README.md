@@ -54,6 +54,7 @@ Leetocde solutions of problems that i solved
 | [2574-left-and-right-sum-differences](https://github.com/aryamishra88/leetcode_solutions/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [2778-sum-of-squares-of-special-elements](https://github.com/aryamishra88/leetcode_solutions/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/aryamishra88/leetcode_solutions/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
+| [3718-smallest-missing-multiple-of-k](https://github.com/aryamishra88/leetcode_solutions/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3731-find-missing-elements](https://github.com/aryamishra88/leetcode_solutions/tree/main/3731-find-missing-elements/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
@@ -170,6 +171,7 @@ Leetocde solutions of problems that i solved
 | [0560-subarray-sum-equals-k](https://github.com/aryamishra88/leetcode_solutions/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/aryamishra88/leetcode_solutions/tree/main/2006-count-number-of-pairs-with-absolute-difference-k/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/aryamishra88/leetcode_solutions/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
+| [3718-smallest-missing-multiple-of-k](https://github.com/aryamishra88/leetcode_solutions/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3731-find-missing-elements](https://github.com/aryamishra88/leetcode_solutions/tree/main/3731-find-missing-elements/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
