@@ -13,6 +13,7 @@ Leetocde solutions of problems that i solved
 | [0349-intersection-of-two-arrays](https://github.com/aryamishra88/leetcode_solutions/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0410-split-array-largest-sum](https://github.com/aryamishra88/leetcode_solutions/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0435-non-overlapping-intervals](https://github.com/aryamishra88/leetcode_solutions/tree/main/0435-non-overlapping-intervals/) | Medium |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/aryamishra88/leetcode_solutions/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0455-assign-cookies](https://github.com/aryamishra88/leetcode_solutions/tree/main/0455-assign-cookies/) | Easy |
 | [0532-k-diff-pairs-in-an-array](https://github.com/aryamishra88/leetcode_solutions/tree/main/0532-k-diff-pairs-in-an-array/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/aryamishra88/leetcode_solutions/tree/main/0560-subarray-sum-equals-k/) | Medium |
@@ -170,6 +171,7 @@ Leetocde solutions of problems that i solved
 | [0349-intersection-of-two-arrays](https://github.com/aryamishra88/leetcode_solutions/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/aryamishra88/leetcode_solutions/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0389-find-the-difference](https://github.com/aryamishra88/leetcode_solutions/tree/main/0389-find-the-difference/) | Easy |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/aryamishra88/leetcode_solutions/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0532-k-diff-pairs-in-an-array](https://github.com/aryamishra88/leetcode_solutions/tree/main/0532-k-diff-pairs-in-an-array/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/aryamishra88/leetcode_solutions/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/aryamishra88/leetcode_solutions/tree/main/2006-count-number-of-pairs-with-absolute-difference-k/) | Easy |
