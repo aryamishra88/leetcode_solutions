@@ -53,6 +53,7 @@ Leetocde solutions of problems that i solved
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/aryamishra88/leetcode_solutions/tree/main/2410-maximum-matching-of-players-with-trainers/) | Medium |
 | [2574-left-and-right-sum-differences](https://github.com/aryamishra88/leetcode_solutions/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [2778-sum-of-squares-of-special-elements](https://github.com/aryamishra88/leetcode_solutions/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
+| [2965-find-missing-and-repeated-values](https://github.com/aryamishra88/leetcode_solutions/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/aryamishra88/leetcode_solutions/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3718-smallest-missing-multiple-of-k](https://github.com/aryamishra88/leetcode_solutions/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3731-find-missing-elements](https://github.com/aryamishra88/leetcode_solutions/tree/main/3731-find-missing-elements/) | Easy |
@@ -113,6 +114,7 @@ Leetocde solutions of problems that i solved
 | [2469-convert-the-temperature](https://github.com/aryamishra88/leetcode_solutions/tree/main/2469-convert-the-temperature/) | Easy |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/aryamishra88/leetcode_solutions/tree/main/2520-count-the-digits-that-divide-a-number/) | Easy |
 | [2652-sum-multiples](https://github.com/aryamishra88/leetcode_solutions/tree/main/2652-sum-multiples/) | Easy |
+| [2965-find-missing-and-repeated-values](https://github.com/aryamishra88/leetcode_solutions/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 | [3536-maximum-product-of-two-digits](https://github.com/aryamishra88/leetcode_solutions/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 | [3870-count-commas-in-range](https://github.com/aryamishra88/leetcode_solutions/tree/main/3870-count-commas-in-range/) | Easy |
 | [3871-count-commas-in-range-ii](https://github.com/aryamishra88/leetcode_solutions/tree/main/3871-count-commas-in-range-ii/) | Medium |
@@ -159,6 +161,7 @@ Leetocde solutions of problems that i solved
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1672-richest-customer-wealth](https://github.com/aryamishra88/leetcode_solutions/tree/main/1672-richest-customer-wealth/) | Easy |
+| [2965-find-missing-and-repeated-values](https://github.com/aryamishra88/leetcode_solutions/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -170,6 +173,7 @@ Leetocde solutions of problems that i solved
 | [0532-k-diff-pairs-in-an-array](https://github.com/aryamishra88/leetcode_solutions/tree/main/0532-k-diff-pairs-in-an-array/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/aryamishra88/leetcode_solutions/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/aryamishra88/leetcode_solutions/tree/main/2006-count-number-of-pairs-with-absolute-difference-k/) | Easy |
+| [2965-find-missing-and-repeated-values](https://github.com/aryamishra88/leetcode_solutions/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/aryamishra88/leetcode_solutions/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3718-smallest-missing-multiple-of-k](https://github.com/aryamishra88/leetcode_solutions/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3731-find-missing-elements](https://github.com/aryamishra88/leetcode_solutions/tree/main/3731-find-missing-elements/) | Easy |
