@@ -68,6 +68,7 @@ Leetocde solutions of problems that i solved
 | [0145-binary-tree-postorder-traversal](https://github.com/aryamishra88/leetcode_solutions/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0225-implement-stack-using-queues](https://github.com/aryamishra88/leetcode_solutions/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0232-implement-queue-using-stacks](https://github.com/aryamishra88/leetcode_solutions/tree/main/0232-implement-queue-using-stacks/) | Easy |
+| [2390-removing-stars-from-a-string](https://github.com/aryamishra88/leetcode_solutions/tree/main/2390-removing-stars-from-a-string/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -132,6 +133,7 @@ Leetocde solutions of problems that i solved
 | [1929-concatenation-of-array](https://github.com/aryamishra88/leetcode_solutions/tree/main/1929-concatenation-of-array/) | Easy |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/aryamishra88/leetcode_solutions/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
 | [2073-time-needed-to-buy-tickets](https://github.com/aryamishra88/leetcode_solutions/tree/main/2073-time-needed-to-buy-tickets/) | Easy |
+| [2390-removing-stars-from-a-string](https://github.com/aryamishra88/leetcode_solutions/tree/main/2390-removing-stars-from-a-string/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -159,6 +161,7 @@ Leetocde solutions of problems that i solved
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/aryamishra88/leetcode_solutions/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/aryamishra88/leetcode_solutions/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/aryamishra88/leetcode_solutions/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
+| [2390-removing-stars-from-a-string](https://github.com/aryamishra88/leetcode_solutions/tree/main/2390-removing-stars-from-a-string/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
