@@ -8,6 +8,7 @@ Leetocde solutions of problems that i solved
 | ------- | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/aryamishra88/leetcode_solutions/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0084-largest-rectangle-in-histogram](https://github.com/aryamishra88/leetcode_solutions/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
+| [0088-merge-sorted-array](https://github.com/aryamishra88/leetcode_solutions/tree/main/0088-merge-sorted-array/) | Easy |
 | [0209-minimum-size-subarray-sum](https://github.com/aryamishra88/leetcode_solutions/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0268-missing-number](https://github.com/aryamishra88/leetcode_solutions/tree/main/0268-missing-number/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/aryamishra88/leetcode_solutions/tree/main/0349-intersection-of-two-arrays/) | Easy |
@@ -194,6 +195,7 @@ Leetocde solutions of problems that i solved
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0088-merge-sorted-array](https://github.com/aryamishra88/leetcode_solutions/tree/main/0088-merge-sorted-array/) | Easy |
 | [0345-reverse-vowels-of-a-string](https://github.com/aryamishra88/leetcode_solutions/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/aryamishra88/leetcode_solutions/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0392-is-subsequence](https://github.com/aryamishra88/leetcode_solutions/tree/main/0392-is-subsequence/) | Easy |
@@ -224,6 +226,7 @@ Leetocde solutions of problems that i solved
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0088-merge-sorted-array](https://github.com/aryamishra88/leetcode_solutions/tree/main/0088-merge-sorted-array/) | Easy |
 | [0268-missing-number](https://github.com/aryamishra88/leetcode_solutions/tree/main/0268-missing-number/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/aryamishra88/leetcode_solutions/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0389-find-the-difference](https://github.com/aryamishra88/leetcode_solutions/tree/main/0389-find-the-difference/) | Easy |
