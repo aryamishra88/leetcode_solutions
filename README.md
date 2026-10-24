@@ -78,6 +78,7 @@ Leetocde solutions of problems that i solved
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/aryamishra88/leetcode_solutions/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0622-design-circular-queue](https://github.com/aryamishra88/leetcode_solutions/tree/main/0622-design-circular-queue/) | Medium |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/aryamishra88/leetcode_solutions/tree/main/1290-convert-binary-number-in-a-linked-list-to-integer/) | Easy |
 ## Design
@@ -370,6 +371,7 @@ Leetocde solutions of problems that i solved
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/aryamishra88/leetcode_solutions/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0231-power-of-two](https://github.com/aryamishra88/leetcode_solutions/tree/main/0231-power-of-two/) | Easy |
 | [0509-fibonacci-number](https://github.com/aryamishra88/leetcode_solutions/tree/main/0509-fibonacci-number/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/aryamishra88/leetcode_solutions/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
