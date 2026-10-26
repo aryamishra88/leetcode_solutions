@@ -65,6 +65,7 @@ Leetocde solutions of problems that i solved
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0020-valid-parentheses](https://github.com/aryamishra88/leetcode_solutions/tree/main/0020-valid-parentheses/) | Easy |
 | [0084-largest-rectangle-in-histogram](https://github.com/aryamishra88/leetcode_solutions/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0094-binary-tree-inorder-traversal](https://github.com/aryamishra88/leetcode_solutions/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/aryamishra88/leetcode_solutions/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
@@ -156,6 +157,7 @@ Leetocde solutions of problems that i solved
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/aryamishra88/leetcode_solutions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0020-valid-parentheses](https://github.com/aryamishra88/leetcode_solutions/tree/main/0020-valid-parentheses/) | Easy |
 | [0058-length-of-last-word](https://github.com/aryamishra88/leetcode_solutions/tree/main/0058-length-of-last-word/) | Easy |
 | [0345-reverse-vowels-of-a-string](https://github.com/aryamishra88/leetcode_solutions/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/aryamishra88/leetcode_solutions/tree/main/0387-first-unique-character-in-a-string/) | Easy |
@@ -412,4 +414,8 @@ Leetocde solutions of problems that i solved
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0509-fibonacci-number](https://github.com/aryamishra88/leetcode_solutions/tree/main/0509-fibonacci-number/) | Easy |
+## Bracket Sequences
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0020-valid-parentheses](https://github.com/aryamishra88/leetcode_solutions/tree/main/0020-valid-parentheses/) | Easy |
 <!---LeetCode Topics End-->
