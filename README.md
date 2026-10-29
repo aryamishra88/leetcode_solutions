@@ -46,6 +46,7 @@ Leetocde solutions of problems that i solved
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/aryamishra88/leetcode_solutions/tree/main/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
 | [1552-magnetic-force-between-two-balls](https://github.com/aryamishra88/leetcode_solutions/tree/main/1552-magnetic-force-between-two-balls/) | Medium |
 | [1672-richest-customer-wealth](https://github.com/aryamishra88/leetcode_solutions/tree/main/1672-richest-customer-wealth/) | Easy |
+| [1822-sign-of-the-product-of-an-array](https://github.com/aryamishra88/leetcode_solutions/tree/main/1822-sign-of-the-product-of-an-array/) | Easy |
 | [1929-concatenation-of-array](https://github.com/aryamishra88/leetcode_solutions/tree/main/1929-concatenation-of-array/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/aryamishra88/leetcode_solutions/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [1991-find-the-middle-index-in-array](https://github.com/aryamishra88/leetcode_solutions/tree/main/1991-find-the-middle-index-in-array/) | Easy |
@@ -115,6 +116,7 @@ Leetocde solutions of problems that i solved
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/aryamishra88/leetcode_solutions/tree/main/1290-convert-binary-number-in-a-linked-list-to-integer/) | Easy |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/aryamishra88/leetcode_solutions/tree/main/1304-find-n-unique-integers-sum-up-to-zero/) | Easy |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/aryamishra88/leetcode_solutions/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
+| [1822-sign-of-the-product-of-an-array](https://github.com/aryamishra88/leetcode_solutions/tree/main/1822-sign-of-the-product-of-an-array/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/aryamishra88/leetcode_solutions/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2119-a-number-after-a-double-reversal](https://github.com/aryamishra88/leetcode_solutions/tree/main/2119-a-number-after-a-double-reversal/) | Easy |
 | [2235-add-two-integers](https://github.com/aryamishra88/leetcode_solutions/tree/main/2235-add-two-integers/) | Easy |
