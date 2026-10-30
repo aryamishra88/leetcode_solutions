@@ -119,6 +119,7 @@ Leetocde solutions of problems that i solved
 | [1822-sign-of-the-product-of-an-array](https://github.com/aryamishra88/leetcode_solutions/tree/main/1822-sign-of-the-product-of-an-array/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/aryamishra88/leetcode_solutions/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2119-a-number-after-a-double-reversal](https://github.com/aryamishra88/leetcode_solutions/tree/main/2119-a-number-after-a-double-reversal/) | Easy |
+| [2180-count-integers-with-even-digit-sum](https://github.com/aryamishra88/leetcode_solutions/tree/main/2180-count-integers-with-even-digit-sum/) | Easy |
 | [2235-add-two-integers](https://github.com/aryamishra88/leetcode_solutions/tree/main/2235-add-two-integers/) | Easy |
 | [2413-smallest-even-multiple](https://github.com/aryamishra88/leetcode_solutions/tree/main/2413-smallest-even-multiple/) | Easy |
 | [2469-convert-the-temperature](https://github.com/aryamishra88/leetcode_solutions/tree/main/2469-convert-the-temperature/) | Easy |
@@ -140,6 +141,7 @@ Leetocde solutions of problems that i solved
 | [1929-concatenation-of-array](https://github.com/aryamishra88/leetcode_solutions/tree/main/1929-concatenation-of-array/) | Easy |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/aryamishra88/leetcode_solutions/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
 | [2073-time-needed-to-buy-tickets](https://github.com/aryamishra88/leetcode_solutions/tree/main/2073-time-needed-to-buy-tickets/) | Easy |
+| [2180-count-integers-with-even-digit-sum](https://github.com/aryamishra88/leetcode_solutions/tree/main/2180-count-integers-with-even-digit-sum/) | Easy |
 | [2390-removing-stars-from-a-string](https://github.com/aryamishra88/leetcode_solutions/tree/main/2390-removing-stars-from-a-string/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
