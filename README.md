@@ -18,6 +18,7 @@ Leetocde solutions of problems that i solved
 | [0442-find-all-duplicates-in-an-array](https://github.com/aryamishra88/leetcode_solutions/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/aryamishra88/leetcode_solutions/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0455-assign-cookies](https://github.com/aryamishra88/leetcode_solutions/tree/main/0455-assign-cookies/) | Easy |
+| [0503-next-greater-element-ii](https://github.com/aryamishra88/leetcode_solutions/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0532-k-diff-pairs-in-an-array](https://github.com/aryamishra88/leetcode_solutions/tree/main/0532-k-diff-pairs-in-an-array/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/aryamishra88/leetcode_solutions/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0622-design-circular-queue](https://github.com/aryamishra88/leetcode_solutions/tree/main/0622-design-circular-queue/) | Medium |
@@ -73,11 +74,13 @@ Leetocde solutions of problems that i solved
 | [0145-binary-tree-postorder-traversal](https://github.com/aryamishra88/leetcode_solutions/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0225-implement-stack-using-queues](https://github.com/aryamishra88/leetcode_solutions/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0232-implement-queue-using-stacks](https://github.com/aryamishra88/leetcode_solutions/tree/main/0232-implement-queue-using-stacks/) | Easy |
+| [0503-next-greater-element-ii](https://github.com/aryamishra88/leetcode_solutions/tree/main/0503-next-greater-element-ii/) | Medium |
 | [2390-removing-stars-from-a-string](https://github.com/aryamishra88/leetcode_solutions/tree/main/2390-removing-stars-from-a-string/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/aryamishra88/leetcode_solutions/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
+| [0503-next-greater-element-ii](https://github.com/aryamishra88/leetcode_solutions/tree/main/0503-next-greater-element-ii/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
