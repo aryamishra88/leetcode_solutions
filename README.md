@@ -133,6 +133,7 @@ Leetocde solutions of problems that i solved
 | [2652-sum-multiples](https://github.com/aryamishra88/leetcode_solutions/tree/main/2652-sum-multiples/) | Easy |
 | [2965-find-missing-and-repeated-values](https://github.com/aryamishra88/leetcode_solutions/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 | [3536-maximum-product-of-two-digits](https://github.com/aryamishra88/leetcode_solutions/tree/main/3536-maximum-product-of-two-digits/) | Easy |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/aryamishra88/leetcode_solutions/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
 | [3870-count-commas-in-range](https://github.com/aryamishra88/leetcode_solutions/tree/main/3870-count-commas-in-range/) | Easy |
 | [3871-count-commas-in-range-ii](https://github.com/aryamishra88/leetcode_solutions/tree/main/3871-count-commas-in-range-ii/) | Medium |
 ## Number Theory
